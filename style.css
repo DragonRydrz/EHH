@@ -55,7 +55,7 @@ table {
 html {
     font-size: 62.5%;
     background-attachment: scroll;
-    background-image: url("images/EHHLogo.jpg");
+    background-image: url("./images/EHHLogo.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     
